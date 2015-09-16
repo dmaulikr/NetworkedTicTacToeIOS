@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  COMP2601A4CLIENT-100892373
+
+  Created by Julian Clayton on 2015-04-04.
+  Copyright (c) 2015 Julian Clayton. All rights reserved.
+*/
+
+"game_started" = "Game Started!";
+"game_stopped" = "Game Stopped!";
+"you_play" = "You Play:";
+"stop" = "Stop";
+"start" = "Start";
+"x_wins" = "X Wins";
+"o_wins" = "O Wins";
+"draw" = "Draw!";
+"x_plays" = "X Plays";
+"o_plays" = "O Plays";
+"play_game" = "Play Game?";
+"cancel" = "Cancel";
+"ok" = "OK";
+"you_play_button_0" = "You play button 0";
+"you_play_button_1" = "You play button 1";
+"you_play_button_2" = "You play button 2";
+"you_play_button_3" = "You play button 3";
+"you_play_button_4" = "You play button 4";
+"you_play_button_5" = "You play button 5";
+"you_play_button_6" = "You play button 6";
+"you_play_button_7" = "You play button 7";
+"you_play_button_8" = "You play button 8";
+"opponent_plays" = "Opponent Plays: %d";
