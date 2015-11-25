@@ -1,3 +1,5 @@
 README
 =====================
-Simple Tic-Tac-Toe game that allows two or more players to play against eachother on TicTacToe via a p2p connection
+Simple Tic-Tac-Toe game that allows two or more players to play against eachother on TicTacToe via a p2p connection.
+
+More or less the same as the NetworkedTicTacToeAndroid above except with a peer-to-peer connection
